@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    background-color: antiquewhite;
+}
+.btn{
+    background-color:red;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    width: 120px;
+border: 2px solid white;}
+.btn:hover{
+    background-color: rgb(221, 13, 13);
+    color: white;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btnsett{
+    margin-left: 105px;
+}
+h4{
+    color: rgb(8, 179, 156);
+}
+.btn2{
+    border: none;
+    background-color:rgb(8, 179, 156) ;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.btnsetts{
+margin-left: 10px;    
+}
